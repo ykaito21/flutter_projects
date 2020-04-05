@@ -6,3 +6,4 @@
 - [What2Eat](https://github.com/ykaito21/whattoeat_app)
 - [What2Do](https://github.com/ykaito21/whattodo_app)
 - [Omusubi Gonbei](https://github.com/ykaito21/gonbei_app)
+- [ScanGo](https://github.com/ykaito21/scango_app)
